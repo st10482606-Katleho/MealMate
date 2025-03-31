@@ -1,10 +1,22 @@
-/*
+/*[Online] Available at: https://www.bbcgoodfood.com/recipes/collection/breakfast-recipes/ // morning meals
+*[Accessed on 25th March 2025
 *
+* By Elizabeth Manneh Updated: Feb 21, 2024
+*27 Healthy Grab-and-Go Breakfast Recipes
+*[Online] Available at: https://www.tasteofhome.com/collection/healthy-grab-and-go-breakfast-recipes/?srsltid=AfmBOoq6glo8CSSwmSAkUKqbmtdrlHvXvXToZMWs0E6EjVbW1om3Jgpb
+* Mid Morning meals
 *
+*By Mackenzie Filson and Camille LowderUpdated: Feb 27, 2025
+*90 Quick Lunch Ideas To Turn Your Work Day Around
+*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3034/quick-work-lunch-ideas/ // afternoon meals
 *
+* By Samantha MacAvoy and Rachel BaronUpdated: May 10, 2024
+*70 Healthy Lunch Ideas for Seriously Delicious Midday Fuel
+*[online] Available at: https://www.goodhousekeeping.com/food-recipes/healthy/g960/healthy-lunch-ideas/ // mid afternoon meals
 *
-*
-*
+* By Camille LowderUpdated: Feb 27, 2025
+*100+ Cheap & Easy Dinner Recipes That Are Practically Easier Than Ordering Delivery
+*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3166/cheap-easy-recipes/ //evening meals
 * */
 
 
