@@ -1,23 +1,25 @@
 /*[Online] Available at: https://www.bbcgoodfood.com/recipes/collection/breakfast-recipes/ // morning meals
-*[Accessed on 25th March 2025
+*[Accessed on 25th March 2025]
 *
 * By Elizabeth Manneh Updated: Feb 21, 2024
 *27 Healthy Grab-and-Go Breakfast Recipes
 *[Online] Available at: https://www.tasteofhome.com/collection/healthy-grab-and-go-breakfast-recipes/?srsltid=AfmBOoq6glo8CSSwmSAkUKqbmtdrlHvXvXToZMWs0E6EjVbW1om3Jgpb
-* Mid Morning meals
+* Mid Morning meals [Accessed on 25th March 2025]
 *
 *By Mackenzie Filson and Camille LowderUpdated: Feb 27, 2025
 *90 Quick Lunch Ideas To Turn Your Work Day Around
-*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3034/quick-work-lunch-ideas/ // afternoon meals
+*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3034/quick-work-lunch-ideas/ // afternoon meals [Accessed on 25th March 2025]
 *
 * By Samantha MacAvoy and Rachel BaronUpdated: May 10, 2024
 *70 Healthy Lunch Ideas for Seriously Delicious Midday Fuel
-*[online] Available at: https://www.goodhousekeeping.com/food-recipes/healthy/g960/healthy-lunch-ideas/ // mid afternoon meals
+*[Online] Available at: https://www.goodhousekeeping.com/food-recipes/healthy/g960/healthy-lunch-ideas/ // mid afternoon meals [Accessed on 25th March 2025]
 *
 * By Camille LowderUpdated: Feb 27, 2025
 *100+ Cheap & Easy Dinner Recipes That Are Practically Easier Than Ordering Delivery
-*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3166/cheap-easy-recipes/ //evening meals
-* */
+*[Online] Available at: https://www.delish.com/cooking/recipe-ideas/g3166/cheap-easy-recipes/ //evening meals [Accessed on 25th March 2025]
+*
+* [Online] Available at: https://www.rawpixel.com/search/wallpaper%20fast%20food?page=1&path=_topics&sort=curated/ // ackground wallpaper [Accessed on 25th March 2025]
+*  */
 
 
 
@@ -89,7 +91,7 @@ class MainActivity : AppCompatActivity() {
                     "Big Mac with Fries and Coke"
             "Mid Afternoon" -> answer?.text = "Grilled Cheese Sandwich" +
                     "Pizza and Coke" + "Fruit Salad" + "Italian pasta salad"
-            "Dinner" -> answer?.text = "Rice with Stew" + "Lasagna" +
+            "Evening" -> answer?.text = "Rice with Stew" + "Lasagna" +
                     "Chicken and Pap with salads" + "Steak and Veges with mash Potatoes"
             else -> {
                 answer?.text = "Invalid Time Of The Day, enter what is on the example above"
