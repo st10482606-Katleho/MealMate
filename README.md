@@ -1,4 +1,4 @@
 GitHub repository link: https://github.com/st10482606-Katleho/MealMate/tree/master
 YouTube video link:
 A report explaining the purpose of my application:
-Images and screenshots of the app:
+Images and screenshots of the app: ![image alt](https://github.com/st10482606-Katleho/MealMate/blob/029f9c1b9c518a5bf89a9840e89addedce8e881e/Screenshot%202025-04-01%20142145.png)
